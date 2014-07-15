@@ -52,3 +52,8 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+/data/aPAR.txt
+/data/flow-myosin-um-per-min.txt
+/data/pPAR.txt
+/data/pswd_data
+/data/DATASET_SUMMERSCHOOL.zip
