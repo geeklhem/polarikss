@@ -40,12 +40,12 @@ http://nbviewer.ipython.org/github/geeklhem/polarikss/tree/master/
 
 If you want to use it on your computer the dependencies are:
 
-- the python libraries: numpy, scipy, pandas, matplotlib.
-- for the verification and the flow speed input: as these are unpublished data,
+- Python libraries: numpy, scipy, pandas, matplotlib.
+- Experimental results (for the verification and the flow speed input): as these are unpublished data,
 we cannot disclose them at the moment.
 
 
-License:
+License
 ---------
 Copyright (C) 2014 - Dresden Summer School in Systems Biology Group 4
 
