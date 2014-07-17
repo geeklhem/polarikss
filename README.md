@@ -19,7 +19,6 @@ If you want to use it on your computer the dependencies are:
 - the python libraries: numpy, scipy, pandas, matplotlib.
 - for the verifications and the flow speed input: as these are unpublished data, we cannot disclose them at the moment.
 
-
 We decided to focus on:
 
 - Simplicity: The model is as simple as possible, without interactions
