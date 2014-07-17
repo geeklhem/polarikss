@@ -19,6 +19,22 @@ If you want to use it on your computer the dependencies are:
 - the python libraries: numpy, scipy, pandas, matplotlib.
 - for the verifications and the flow speed input: as these are unpublished data, we cannot disclose them at the moment.
 
+
+We decided to focus on:
+
+- Simplicity: The model is as simple as possible, without interactions
+between the two proteins. We want to see in what extent a diffusion
+and a differential advection are able to break symmetry. The
+implementation is also very simple (forward euler discretisation of an
+EDP).
+
+- Pedagogy: The model is implemented step by step in an Ipython
+notebook, which means that all the code is visible and explained to
+the user. It can also be easily modified in order to test how it would
+behave. This is also why we choose to distribute it under a
+free-software license: you are welcome to copy and modify it !
+
+
 License:
 ---------
 Copyright (C) 2014 - Dresden Summer School in Systems Biology Group 4
